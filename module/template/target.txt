@@ -6,3 +6,6 @@ com.zhenxi.hunter!
 com.reveny.nativecheck!
 me.garfieldhan.holmes!
 com.ubercab.driver!
+com.CIB.Digital.MB!
+com.whatsapp!
+com.bet365.authenticator!
